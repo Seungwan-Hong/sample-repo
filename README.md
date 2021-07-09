@@ -1,1 +1,1 @@
-# sample-repo
+# Hello, git!
